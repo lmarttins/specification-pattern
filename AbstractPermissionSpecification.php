@@ -1,6 +1,6 @@
 <?php
 
-namespace Pag\Core\Support\Specification;
+namespace App\Specification;
 
 use Pag\Core\Models\User;
 

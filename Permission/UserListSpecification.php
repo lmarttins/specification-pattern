@@ -1,12 +1,12 @@
 <?php
 
-namespace Pag\Core\Domains\Users\Users\Specification\Permission;
+namespace App\Specification\Permission;
 
-use Pag\Core\Support\Specification\AbstractPermissionSpecification;
+use App\Specification\AbstractPermissionSpecification;
 
 /**
  * Class UserListSpecification
- * @package Pag\Core\Domains\Users\Users\Specification
+ * @package App\Specification
  */
 class UserListSpecification extends AbstractPermissionSpecification
 {

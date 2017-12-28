@@ -1,12 +1,12 @@
 <?php
 
-namespace Pag\Core\Domains\Users\Users\Specification\Type;
+namespace App\Specification\Type;
 
-use Pag\Core\Support\Specification\AbstractTypeSpecification;
+use App\Specification\AbstractTypeSpecification;
 
 /**
  * Class AdminGlobalSpecification
- * @package Pag\Core\Domains\Users\Users\Specification
+ * @package App\Specification
  */
 class AdminGlobalSpecification extends AbstractTypeSpecification
 {

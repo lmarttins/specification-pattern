@@ -1,12 +1,12 @@
 <?php
 
-namespace Pag\Core\Support\Specification;
+namespace App\Specification;
 
 use Pag\Core\Models\User;
 
 /**
  * Class AndSpecification
- * @package Pag\Core\Support\Specification
+ * @package App\Specification
  */
 class AndSpecification implements UserSpecificationContract
 {

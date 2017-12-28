@@ -1,12 +1,12 @@
 <?php
 
-namespace Pag\Core\Support\Specification;
+namespace App\Specification;
 
 use Pag\Core\Models\User;
 
 /**
  * Class OrSpecification
- * @package Pag\Core\Support\Specification
+ * @package App\Specification
  */
 class OrSpecification implements UserSpecificationContract
 {
